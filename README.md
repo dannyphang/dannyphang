@@ -35,6 +35,7 @@
   <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-4334eb?style=flat&logo=opengl&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-6234eb?style=flat&logo=python&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-8034eb?style=flat&logo=react&logoColor=white" />
+  <img alt="Spring_Boot" src="https://img.shields.io/badge/-Spring_Boot-9934eb?style=flat&logo=springboot&logoColor=white" />
 
 </p>
 
