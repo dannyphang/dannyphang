@@ -13,7 +13,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyphang&langs_count=10&hide=html,css,javascript,jupyter%20notebook&layout=compact&theme=github_dark"></p>
 
 <p>
-  <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-eb3434?style=flat&logo=.net&logoColor=white" />
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-eb3434?style=flat&logo=angular&logoColor=white" />
+  <img alt="ASP.NET" src="https://img.shields.io/badge/-ASP.NET-eb4c34?style=flat&logo=.net&logoColor=white" />
 <img alt="C" src="https://img.shields.io/badge/-C/C++-eb5f34?style=flat&logo=c&logoColor=white" />
   <img alt="C_Sharp" src="https://img.shields.io/badge/-C%20Sharp-eb7734?style=flat&logo=csharp&logoColor=white" /> 
   <img alt="Css" src="https://img.shields.io/badge/-CSS-eb8f34?style=flat&logo=css3&logoColor=white" />
@@ -25,7 +26,7 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-53eb34?style=flat&logo=heroku&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-34eb5c?style=flat&logo=html5&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-34eb8f?style=flat&logo=java&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-34ebc3?style=flat&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-34ebc3?style=flat&logo=typescript&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-34e2eb?style=flat&logo=kotlin&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-34b4eb?style=flat&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-3493eb?style=flat&logo=mysql&logoColor=white" />
@@ -33,7 +34,7 @@
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-3449eb?style=flat&logo=opencv&logoColor=white" />
   <img alt="OpenGL" src="https://img.shields.io/badge/-OpenGL-4334eb?style=flat&logo=opengl&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-6234eb?style=flat&logo=python&logoColor=white" />
-  <img alt="Repl It" src="https://img.shields.io/badge/-Repl_It-8034eb?style=flat&logo=replit&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-8034eb?style=flat&logo=react&logoColor=white" />
 
 </p>
 
