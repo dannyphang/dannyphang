@@ -1,9 +1,10 @@
 ## About Me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
-💼 Final Year Software Engineering Student at [Tunku Abdul Rahman University College](https://www.tarc.edu.my/)<br />
+💼 Was a Software Engineering Student at [Tunku Abdul Rahman University of Management and Technology](https://www.tarc.edu.my/)<br />
+👨🏻‍💻 A Software Developer <br/>
 ✨ Interested in Full-Stack development <br/>
 😄 Pronouns: Programmer/He/His <br/>
-💬 Ask me about anything and brainstorm with me over tech, algorithms [here](https://linktr.ee/dannyphang)
+💬 Ask me about anything and brainstorm with me over tech, algorithms, boardgame [here](https://linktr.ee/dannyphang)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dannyphang&show_icons=true&theme=algolia" alt="dannyphang" />
